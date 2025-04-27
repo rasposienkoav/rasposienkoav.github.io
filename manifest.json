@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "https://rasposienkoav.github.io",
+  "display": "standalone"
+}
